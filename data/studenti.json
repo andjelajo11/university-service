@@ -1,0 +1,54 @@
+[
+    {
+        "indeks": 202011112222,
+        "lozinka": "12345678990",
+        "ime": "Jelena",
+        "prezime": "Jelenic",
+        "email": "jelena@singimail.com",
+        "ocene": [
+            {
+                "sifra_predmeta": "123",
+                "sifra_profesora": "111",
+                "ocena": 10
+            },
+            {
+                "sifra_predmeta": "124",
+                "sifra_profesora": "111",
+                "ocena": 7
+            },
+            {
+                "sifra_predmeta": "121",
+                "sifra_profesora": "111",
+                "ocena": 9
+            }
+        ]
+    },
+    {
+        "indeks": 2020666777,
+        "lozinka": "9876543210",
+        "ime": "kosta",
+        "prezime": "kostic",
+        "email": "kosta@singimail.com",
+        "ocene": [
+            {
+                "sifra_predmeta": "123",
+                "sifra_profesora": "111",
+                "ocena": 9
+            }
+        ]
+    },
+    {
+        "indeks": 2020999888,
+        "lozinka": "202020",
+        "ime": "vuk",
+        "prezime": "vukovic",
+        "email": "vuk@singimail.com",
+        "ocene": [
+            {
+                "sifra_predmeta": "123",
+                "sifra_profesora": "111",
+                "ocena": 6
+            }
+        ]
+    }
+]
