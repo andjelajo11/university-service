@@ -26,7 +26,7 @@ def menu(): #funkcija koja prikazuje glavni meni
     elif choice == "B" or choice =="b":
         login()
     elif choice=="Q" or choice=="q":
-        sys.exit
+        sys.exit()
     else:
         print("Odaberi A,B ili Q")
         print("Pokusaj ponovo")
